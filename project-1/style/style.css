@@ -79,7 +79,7 @@ ul p {
 /* section -1 */
 
 #container-1 {
-    background-image: url(/photos/MaskGroup.png);
+    background-image: url("/project-1/photos/MaskGroup.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
